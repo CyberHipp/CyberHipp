@@ -1,4 +1,4 @@
-- 👋 Hi, I’m CyberHipp
+- 👋 Hi, I’m @CyberHipp
 - 👀 I’m interested in Augmented reality
 - 🌱 I’m currently learning about AI, Phyton and simple robotics
 - 💞️ I’m looking to collaborate on ways to use AI and sensors from devices wearables for automated information gathering
